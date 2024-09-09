@@ -39,7 +39,7 @@
 
 1. Ejecuta el servidor:
    ```bash
-   cargo run --release
+   ./rustback
    ```
 
 2. El servidor comenzará a escuchar en la dirección `0.0.0.0:4444`.
