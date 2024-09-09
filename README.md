@@ -1,9 +1,11 @@
-### Documentación (README.md)
+### Documentación 
 
 ```markdown
 # rustback
 
-`rustback` es un backdoor implementado en Rust que permite a los clientes ejecutar comandos de shell de forma remota. El servidor escucha en el puerto 4444 y maneja múltiples conexiones concurrentemente utilizando Tokio.
+`rustback` es un backdoor implementado en Rust que permite a los clientes ejecutar comandos
+ de shell de forma remota. El servidor escucha en el puerto 4444 y maneja múltiples conexiones
+ concurrentemente utilizando Tokio.
 
 ## Características
 
@@ -68,6 +70,5 @@ Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE)
 
 ## Disclaimer
 
-Descargo de responsabilidad. Consulta el archivo [DISCLAIMER](DISCLAIMER) para más detalles.
+Descargo de responsabilidad. Consulta el archivo [DISCLAIMER](DISCLAIMER.md) para más detalles.
 
-```
